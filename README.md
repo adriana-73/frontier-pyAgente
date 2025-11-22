@@ -43,7 +43,10 @@ Pergunta do Usuário:
 > "O que são listas em Python e como posso usá-las?"
 ![pergunta e resposta do agente](assets/perg-03.png)
 
-Resposta do Assistente (Simulação do Output):
+Resposta do Assistente (Simulação do  input e Output):
+![pergunta e resposta do agente](assets/fluxo.png)
+
+
 
 
 | Componente | Conteúdo Gerado |
